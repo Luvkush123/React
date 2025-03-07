@@ -26,6 +26,12 @@ const anotherElement = (
 )
 
 
+// const AreactElement =React.createElement (
+//     'a',
+//     { href : 'https://google.com' , target : '_blank'},
+//     'click to visit google'
+// )
+
 
 // const areactElement = React.createElement(
 //     'a',
@@ -35,6 +41,6 @@ const anotherElement = (
 
 createRoot(document.getElementById('root')).render(
     // anotherElement
-    reactElement
+    // AreactElement
     // <MyApp />
 )
